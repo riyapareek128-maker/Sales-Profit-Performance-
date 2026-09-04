@@ -80,3 +80,8 @@ This project was created as a **Data Analytics / Excel Dashboard portfolio proje
 **Riya Pareek**
 
 Aspiring Data Analyst | Excel | SQL | Data Visualization
+
+
+#Deshboard
+
+![Seles & Profit Excel deshboard](deshboard preview.png)
