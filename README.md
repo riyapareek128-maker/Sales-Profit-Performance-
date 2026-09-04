@@ -82,6 +82,6 @@ This project was created as a **Data Analytics / Excel Dashboard portfolio proje
 Aspiring Data Analyst | Excel | SQL | Data Visualization
 
 
-#Deshboard
+## Dashboard  
 
-![Seles & Profit Excel deshboard](deshboard preview.png)
+![Seles & Profit Excel deshboard](deshboard_preview.png)
